@@ -1,0 +1,22 @@
+﻿Bài 2 : Kiểm tra tài liệu trước khi xuất bản
+
+
+Phần 1: Phân tích
+Lỗi 1: thiếu dâu ! trước [Logo PTIT] (https://ptit.edu.vn/logo.png)
+Lỗi 2: sai thứ tự cấp tiêu đề 
+Lỗi 3: dòng Đây là đoạn văn bản in đậm thiếu nằm trong cặp dấu **...**
+
+
+Phần 2: Hoàn thiện
+# Giới thiệu dự án
+
+
+! [Logo PTIT] (https://ptit.edu.vn/logo.png)
+
+
+**Đây là đoạn văn bản in đậm.**
+
+
+## Mục tiêu
+- Quản lý sinh viên
+- Quản lý môn học
